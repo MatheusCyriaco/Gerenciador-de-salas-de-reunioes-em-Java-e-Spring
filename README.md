@@ -7,7 +7,8 @@ Repositório com zip's dos repositórios usados nesse projeto
 
 ### Aluno: Matheus Cyriaco
 
-Repositorio front-end: https://github.com/MatheusCyriaco/sala-de-reuniao-front-end
-Repositorio back-end:
+Repositorio front-end: https://github.com/MatheusCyriaco/sala-de-reuniao-front-end 
+
+Repositorio back-end: https://github.com/MatheusCyriaco/sala-de-reuniao-back-end
 
 Java | Spring
